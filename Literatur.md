@@ -11,7 +11,7 @@
 # Designpraxis
 ## Branding
 - Baetzgen: **Brand Planning**
-- Spies, Marco: **Branded Interactions**
+- Spies, Marco (2012): **Branded Interactions: Digitale Markenerlebnisse planen & gestalten.** Verlag Hermann Schmidt, Mainz.
 - Hensel, Daniela (2015): **Understanding Branding: Strategie- und Designprozesse om der Markenentwicklung verstehen und umsetzen.** Stiebner Verlag, München.
 - Scheier, Christian; Held, Dirk (2012): **Was Marken erfolgreich macht: Neuropsychologie in der Markenführung.** Haufe, Freiburg.
 
