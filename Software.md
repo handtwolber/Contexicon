@@ -18,6 +18,9 @@
 - **Adobe InDesign:** Für alle Printmedien. www.adobe.com/indesign
 
 # Administration
+- **Asana:** Für das tägliche Projekt-Management. www.asana.com
+- **Slack:** Für die tägliche Kommunikation. www.slack.com
+- **Trello:** (Abundzu) für Projekt-Management. www.trello.com
 - **Lexoffice:** Buchhaltung und Ust.-Voranmeldung. www.lexoffice.de
 - **Fastbill:** Angebote und Rechnungen mit eigenem Layout (Schrift, Farbe können weitestgehend angepasst werden). www.fastbill.com
 - **Apple Pages:** Für Korrespondenz & ausführliche Angebote. www.apple.com/pages
