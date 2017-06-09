@@ -3,20 +3,20 @@
 - Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin. ![stars_one][stars_onex]
 - Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft.** Birkhäuser: Basel.
 - Dubberly, Hugh (2005): **How do you Design?** Stand: 15.06.2015 dubberly.com/articles/how-do-you-design.html
-- Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. 👍
+- Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. ![stars_three][stars_three]
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
 - Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht. ![stars_two][stars_two]
 - Krämer, Sybille; Bredekamp, Horst (2009): **Kultur, Technik, Kulturtechnik. Wider die Diskursivierung der Kultur.** In: Krämer, Sybille; Bredekamp, Horst (Hrsg.): Bild, Schrift, Zahl. Wilhelm Fink Verlag: München, S. 9-21.
 - Latour, Bruno (2005): Von objekten zu Dingen. In: Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.): Gestaltung denken. Grundlagentexte zu Design und Architektur. Birkhäuser: Basel, S. 257-260.
 - Mareis, Claudia (2011): Design als Wissenskultur. Interfe- renzen zwischen Design- und Wissensdiskursen seit 1960. transcript Verlag: Bielefeld.
-- Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. 👍
+- Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. ![stars_three][stars_three]
 - Mareis, Claudia; Joost, Gesche; Kimpel, Kora (Hrsg.): **Entwerfen – Wissen - Produzieren. Designforschung im Anwendungskontext.** transcript: Bielefeld.
-- Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): **Die Geschichte des nachhaltigen Design.** VAS: Bad Homburg. S. 236-247. 👍
+- Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): **Die Geschichte des nachhaltigen Design.** VAS: Bad Homburg. S. 236-247. ![stars_three][stars_three]
 - Maser, Siegfried (1976): **Theorie ohne Praxis ist leer, Praxis ohne Theorie ist blind. Grundsätzliches über die notwendig- keit einer Designtheorie.** In: Form. Heft 73, S. 40-42.
 - Maser, Siegfried (1990): **Theorie heißt Praxis verstehen. Vortrag beim Grafik-Design-Ost-West-Kongreß.** Braunschweig.
-- Maser, Siegfried (1994): **Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse schafft?** In: Burg Giebichenstein Kunsthochschule Halle: Design & Ethik. S. 89-100. ![stars_three][stars_three]
-- Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. 👍
-- Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. 👍
+- Maser, Siegfried (1994): **Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse schafft?** In: Burg Giebichenstein Kunsthochschule Halle: Design & Ethik. S. 89-100.
+- Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. ![stars_three][stars_three]
+- Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. ![stars_three][stars_three]
 - Krippendorf, Klaus (2013): **Die Semantische Wende. Eine neue Grundlage für das Design.** Birkhäuser, Basel.
 - Papanek, Victor (2006): Design for the Real World. Human Ecology and Social Change. Thames & Hudson: London.
 - Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Hermann Schmidt: Mainz.
@@ -44,20 +44,20 @@
 
 ## UX/UI
 - Cooper, Alan: **About Face**
-- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly, Sebastopol. 👍
+- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly, Sebastopol. ![stars_two][stars_two]
 - Marsh, Joel (2016): **UX for Beginners: A Crash Course in 100 Short Lessons.** O'Reilly, Sebastopol.
 - Nagel, Wolfram; Fischer, Valentin (2013): **Multiscreen Experience Design: Prinzipien, Muster und Faktoren für die Strategieentwicklung und Konzeption digitaler Services für verschiedene Endgeräte.** Digiparden, Schwäbisch Gmünd.
-- Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. 👍
+- Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. ![stars_two][stars_two]
 - Krug, Steve (2014): **Don't make me think: A Common Sense Approach to Web and Mobile Usability.** Pearson/New Riders, San Francisco.
 - Gothelf, Jeff; Seiden, Josh (2016): **Lean UX: Designing Great Products with Agile Teams.** O'Reilly, Sebastopol.
 
 ## Misc
 - Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): **Management Y: Agile, Scrum, Design Thinking & Co.** Campus, Frankfurt/New York.
-- Duarte, Nancy (2012): **Resonate.** Wiley-VCH: Weinheim. 👍
+- Duarte, Nancy (2012): **Resonate.** Wiley-VCH: Weinheim. ![stars_two][stars_two]
 - Osterwalder, Alexander: **Business Model Generation**
 - Kobuss, Joachim; Bretz, Alexander (2010): **Erfolgreich als Designer: Designbusiness gründen und entwickeln.** Birkhäuser, Basel.
 - Kobuss, Joachim; Bretz, Alexander (2017): **Erfolgreich als Designer: Designleistungen bewerten und kalkulieren.** Birkhäuser, Basel.
-- Wolfsberger, Judith: **Frei geschrieben** 👍
+- Wolfsberger, Judith: **Frei geschrieben** ![stars_three][stars_three]
 - Gray, Dave: **Gamestorming**
 - Best, Kathryn: **Grundlagen des Designmanagements**
 - Duckett, Jon: **HTML & CSS**
