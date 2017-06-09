@@ -13,3 +13,5 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/cn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+![hot][hot Icon]
