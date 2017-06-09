@@ -10,31 +10,31 @@
 
 # Designpraxis
 ## Branding
-- Baetzgen: Brand Planning
-- Spies, Marco: Branded Interactions
-- Hensel, Daniela: Understanding Branding
-- Scheier, Christian: Was Marken erfolgreich macht
+- Baetzgen: **Brand Planning**
+- Spies, Marco: **Branded Interactions**
+- Hensel, Daniela: **Understanding Branding**
+- Scheier, Christian: **Was Marken erfolgreich macht**
 
 ## UX/UI
-- Cooper, Alan: About Face
-- Nagel, Wolfram: Multiscreen-Experience-Design
-- Marsh: UX for Beginners
+- Cooper, Alan: **About Face**
+- Nagel, Wolfram: **Multiscreen-Experience-Design**
+- Marsh: **UX for Beginners**
 
 ## Misc
-- Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): Management Y: Agile, Scrum, Design Thinking & Co. Campus, Frankfurt/New York.
-- Duarte, Nancy (2012): Resonate . Wiley-VCH: Weinheim.
-- Osterwalder, Alexander: Business Model Generation
-- Kobuss, Joachim: Erfolgreich als Designer
+- Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): **Management Y: Agile, Scrum, Design Thinking & Co.** Campus, Frankfurt/New York.
+- Duarte, Nancy (2012): **Resonate.** Wiley-VCH: Weinheim.
+- Osterwalder, Alexander: **Business Model Generation**
+- Kobuss, Joachim: **Erfolgreich als Designer**
 - Wolfsberger, Judith: **Frei geschrieben**
-- Gray, Dave: Gamestorming
-- Best, Kathryn: Grundlagen des Designmanagements
-- Duckett, Jon: HTML & CSS
-- Pricken, Mario: Kribbeln im Kopf
-- Duarte, Nancy: Slide•ology
-- Otto, Alexander Maximilian: Storytelling in der Unternehmenskommunikation
-- Reins: Text sells
-- Holston, David: The strategic Designer
-- Haussmann, Martin: UZMO - Denken mit dem Stift
+- Gray, Dave: **Gamestorming**
+- Best, Kathryn: **Grundlagen des Designmanagements**
+- Duckett, Jon: **HTML & CSS**
+- Pricken, Mario: **Kribbeln im Kopf**
+- Duarte, Nancy: **Slide•ology**
+- Otto, Alexander Maximilian: **Storytelling in der Unternehmenskommunikation**
+- Reins: **Text sells**
+- Holston, David: **The strategic Designer**
+- Haussmann, Martin: **UZMO - Denken mit dem Stift**
 
 
 # Methodensammlungen
