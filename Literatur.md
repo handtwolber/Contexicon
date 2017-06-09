@@ -12,22 +12,24 @@
 ## Branding
 - Baetzgen: **Brand Planning**
 - Spies, Marco: **Branded Interactions**
-- Hensel, Daniela: **Understanding Branding**
+- Hensel, Daniela (2015): **Understanding Branding: Strategie- und Designprozesse om der Markenentwicklung verstehen und umsetzen.** Stiebner Verlag, München.
 - Scheier, Christian; Held, Dirk (2012): **Was Marken erfolgreich macht: Neuropsychologie in der Markenführung.** Haufe, Freiburg.
 
 ## UX/UI
 - Cooper, Alan: **About Face**
-- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly. 👍
+- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly, Sebastopol. 👍
 - Marsh, Joel (2016): **UX for Beginners: A Crash Course in 100 Short Lessons.** O'Reilly, Sebastopol.
 - Nagel, Wolfram; Fischer, Valentin (2013): **Multiscreen Experience Design: Prinzipien, Muster und Faktoren für die Strategieentwicklung und Konzeption digitaler Services für verschiedene Endgeräte.** Digiparden, Schwäbisch Gmünd.
 - Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. 👍
-- Krug, Steve (2014): **Don't make me think: A Common Sense Approach to Web and Mobile Usability.** Pearson/New Riders, San Francisco. 
+- Krug, Steve (2014): **Don't make me think: A Common Sense Approach to Web and Mobile Usability.** Pearson/New Riders, San Francisco.
+- Gothelf, Jeff; Seiden, Josh (2016): **Lean UX: Designing Great Products with Agile Teams.** O'Reilly, Sebastopol.
 
 ## Misc
 - Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): **Management Y: Agile, Scrum, Design Thinking & Co.** Campus, Frankfurt/New York.
 - Duarte, Nancy (2012): **Resonate.** Wiley-VCH: Weinheim. 👍
 - Osterwalder, Alexander: **Business Model Generation**
-- Kobuss, Joachim: **Erfolgreich als Designer**
+- Kobuss, Joachim; Bretz, Alexander (2010): **Erfolgreich als Designer: Designbusiness gründen und entwickeln.** Birkhäuser, Basel.
+- Kobuss, Joachim; Bretz, Alexander (2017): **Erfolgreich als Designer: Designleistungen bewerten und kalkulieren.** Birkhäuser, Basel.
 - Wolfsberger, Judith: **Frei geschrieben** 👍
 - Gray, Dave: **Gamestorming**
 - Best, Kathryn: **Grundlagen des Designmanagements**
