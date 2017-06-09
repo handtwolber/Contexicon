@@ -19,8 +19,9 @@
 - Cooper, Alan: **About Face**
 - Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly. 👍
 - Marsh, Joel (2016): **UX for Beginners: A Crash Course in 100 Short Lessons.** O'Reilly, Sebastopol.
-- Nagel, Wolfram: **Multiscreen-Experience-Design**
+- Nagel, Wolfram; Fischer, Valentin (2013): **Multiscreen Experience Design: Prinzipien, Muster und Faktoren für die Strategieentwicklung und Konzeption digitaler Services für verschiedene Endgeräte.** Digiparden, Schwäbisch Gmünd.
 - Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. 👍
+- Krug, Steve (2014): **Don't make me think: A Common Sense Approach to Web and Mobile Usability.** Pearson/New Riders, San Francisco. 
 
 ## Misc
 - Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): **Management Y: Agile, Scrum, Design Thinking & Co.** Campus, Frankfurt/New York.
@@ -39,6 +40,7 @@
 - Haussmann, Martin: **UZMO - Denken mit dem Stift**
 - Eyal, Nir (2014): **Hooked: How to Build Habit-Forming Products.** Penguin, London.
 - Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Verlag Hermann Schmidt, Mainz.
+- Knapp, Jake; Zeratsky, John; Kowitz, Braden (2016): **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days.** Simon & Schuster, New York. 
 
 
 # Methodensammlungen
