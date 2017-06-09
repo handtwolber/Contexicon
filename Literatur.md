@@ -1,11 +1,12 @@
 # Designtheorie
 
 - Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin.
-- Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft.** Birkhäuser: Basel.
+- Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft: Gestaltung zwischen Zentrum und Peripherie.** Birkhäuser: Basel.
 - Dubberly, Hugh (2005): **How do you Design?** Stand: 15.06.2015 dubberly.com/articles/how-do-you-design.html
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. ![stars_three][stars_three]
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
 - Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht. ![stars_two][stars_two]
+- Joost, Gesche; Scheuermann, Arne (Hrsg.) (2008): **Design als Rhetorik: Grundlagen, Positionen, Fallstudien.** Birkhäuser, Basel.
 - Krämer, Sybille; Bredekamp, Horst (2009): **Kultur, Technik, Kulturtechnik. Wider die Diskursivierung der Kultur.** In: Krämer, Sybille; Bredekamp, Horst (Hrsg.): Bild, Schrift, Zahl. Wilhelm Fink Verlag: München, S. 9-21.
 - Latour, Bruno (2005): **Von Objekten zu Dingen.** In: Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.): Gestaltung denken. Grundlagentexte zu Design und Architektur. Birkhäuser: Basel, S. 257-260.
 - Mareis, Claudia (2011): **Design als Wissenskultur. Interferenzen zwischen Design- und Wissensdiskursen seit 1960.** transcript Verlag: Bielefeld.
@@ -49,6 +50,7 @@
 - Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. ![stars_two][stars_two]
 - Krug, Steve (2014): **Don't make me think: A Common Sense Approach to Web and Mobile Usability.** Pearson/New Riders, San Francisco.
 - Gothelf, Jeff; Seiden, Josh (2016): **Lean UX: Designing Great Products with Agile Teams.** O'Reilly, Sebastopol.
+- Zillgens, Christoph (2013): **Responsive Webdesign: Reaktionsfähige Websites gestalten und umsetzen.** Carl Hanser Verlag, München.
 
 ## Misc
 - Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): **Management Y: Agile, Scrum, Design Thinking & Co.** Campus, Frankfurt/New York.
@@ -83,6 +85,9 @@
 - Pfeifer, Hans-Georg (Hrsg.) (1990): **Peter Behrens. Wer aber will sagen, was Schönheit sei?** Beton Verlag, Düsseldorf.
 - Schneider, Beat (2009): **Design – Eine Einführung: Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext.** Birkhäuser, Basel.
 - Koop, Andreas (2012): **NSCI: Das visuelle Erscheinungsbild der Nationalsozialisten 1920-1945.** Verlag Hermann Schmidt, Mainz.
+
+## Mythologie
+- Campbell, Joseph (2015): **Der Heros in tausend Gestalten.** Insel Verlag, Berlin.
 
 # Methodensammlungen
 - MediaLAB Amsterdam Toolkit http://medialab.hva.nl
