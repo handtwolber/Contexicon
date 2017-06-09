@@ -35,7 +35,8 @@
 
 # Designpraxis
 ## Branding
-- Baetzgen: **Brand Planning**
+- Baetzgen, Andreas: **Brand Planning**
+- Baetzgen, Andreas (Hrsg.) (2015): **Brand Experience: An jedem Touchpoint auf den Punkt begeistern.** Schäffer-Poeschel Verlag, Stuttgart.
 - Spies, Marco (2012): **Branded Interactions: Digitale Markenerlebnisse planen & gestalten.** Verlag Hermann Schmidt, Mainz.
 - Hensel, Daniela (2015): **Understanding Branding: Strategie- und Designprozesse om der Markenentwicklung verstehen und umsetzen.** Stiebner Verlag, München.
 - Scheier, Christian; Held, Dirk (2012): **Was Marken erfolgreich macht: Neuropsychologie in der Markenführung.** Haufe, Freiburg.
@@ -81,6 +82,7 @@
 ## Designgeschichte
 - Pfeifer, Hans-Georg (Hrsg.) (1990): **Peter Behrens. Wer aber will sagen, was Schönheit sei?** Beton Verlag, Düsseldorf.
 - Schneider, Beat (2009): **Design – Eine Einführung: Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext.** Birkhäuser, Basel.
+- Koop, Andreas (2012): **NSCI: Das visuelle Erscheinungsbild der Nationalsozialisten 1920-1945.** Verlag Hermann Schmidt, Mainz.
 
 # Methodensammlungen
 - MediaLAB Amsterdam Toolkit http://medialab.hva.nl
