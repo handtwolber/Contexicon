@@ -90,6 +90,12 @@
 - Technology for creating web applications http://en.bem.info
 - Lean Startup Methodology http://theleanstartup.com
 
+# Legende
+
+![stars_one][stars_onex] – Man ist danach nicht dümmer als davor.
+![stars_two][stars_two] – Bei Interesse lesen.
+![stars_three][stars_three] – Muss man auf jeden Fall gelesen haben.
+
 [stars_onex]: https://handtwolber.github.io/Contexicon/assets/icons/stars_onex.svg
 [stars_two]: https://handtwolber.github.io/Contexicon/assets/icons/stars_two.svg
 [stars_three]: https://handtwolber.github.io/Contexicon/assets/icons/stars_three.svg
