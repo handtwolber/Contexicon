@@ -31,3 +31,23 @@
 - Marsh: UX for Beginners
 - Haussmann, Martin: UZMO - Denken mit dem Stift
 - Scheier, Christian: Was Marken erfolgreich macht
+
+
+# Methodensammlungen
+- Designmethodenfinder designmethodenfinder.de
+- MediaLAB Amsterdam Toolkit medialab.hva.nl
+- IDEO Method Cards (App) ideo.com
+- Service Design Toolkit servicedesigntoolkit.org
+- Human-centered Design Kit designkit.org
+- Design Thinking for educators designthinkingforeducators.com
+- Project of How projectofhow.com
+- Method Kit methodkit.com
+- Stanford d.school Bootcamp Bootleg dschool.stanford.edu
+- Methods & Tools curated by Hyper Island http://toolbox.hyperisland.com
+- UX Project Checklist http://uxchecklist.github.io
+- The PM Toolkit http://thepmtoolkit.com/?ref=producthunt
+- Methodenübersicht nach Phasen sortiert http://designresearchtechniques.com
+- Service Design Toolkit – Do it yourself http://www.servicedesigntoolkit.org/index.html
+- Communication Tools supporting design process http://www.servicedesigntools.org
+- Technology for creating web applications https://en.bem.info
+- Lean Startup Methodology theleanstartup.com
