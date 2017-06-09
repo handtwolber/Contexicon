@@ -91,10 +91,10 @@
 - Lean Startup Methodology http://theleanstartup.com
 
 
-[stars_one]: https://github.com/handtwolber/Contexicon/blob/master/assets/icons/stars_one.svg
+[stars one]: https://github.com/handtwolber/Contexicon/blob/master/assets/icons/stars_one.svg
 [stars_two]: https://github.com/handtwolber/Contexicon/blob/master/assets/icons/stars_two.svg
 [stars_three]: https://github.com/handtwolber/Contexicon/blob/master/assets/icons/stars_three.svg
 
-![stars][stars_one]
+![stars][stars one]
 ![stars][stars_two]
 [stars][stars_three]
