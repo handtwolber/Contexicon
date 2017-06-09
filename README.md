@@ -11,7 +11,3 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 |:-|:---|
 | L | [Literatur](Literatur.md) |
 | V | [Value Based Pricing](Valuebased-pricing.md) |
-
-[stars_two]: https://handtwolber.github.io/Contexicon/assets/icons/stars_two.svg
-
-![stars][stars_two]
