@@ -34,7 +34,6 @@
 
 
 # Methodensammlungen
-- Designmethodenfinder http://designmethodenfinder.de
 - MediaLAB Amsterdam Toolkit http://medialab.hva.nl
 - IDEO Method Cards (App) http://ideo.com
 - Service Design Toolkit http://servicedesigntoolkit.org
