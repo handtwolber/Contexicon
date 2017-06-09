@@ -1,6 +1,6 @@
 # Designtheorie
 
-- Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin. ![stars_one][stars_one]
+- Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin. ![stars_one][stars_onex]
 - Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft.** Birkhäuser: Basel.
 - Dubberly, Hugh (2005): **How do you Design?** Stand: 15.06.2015 dubberly.com/articles/how-do-you-design.html
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. 👍
@@ -90,7 +90,7 @@
 - Technology for creating web applications http://en.bem.info
 - Lean Startup Methodology http://theleanstartup.com
 
-[stars_one]: https://handtwolber.github.io/Contexicon/assets/icons/stars_one.svg
+[stars_onex]: https://handtwolber.github.io/Contexicon/assets/icons/stars_one.svg
 [stars_two]: https://handtwolber.github.io/Contexicon/assets/icons/stars_two.svg
 [stars_three]: https://handtwolber.github.io/Contexicon/assets/icons/stars_three.svg
 
