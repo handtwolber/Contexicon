@@ -42,7 +42,7 @@
 - Design Thinking for educators designthinkingforeducators.com
 - Project of How projectofhow.com
 - Method Kit methodkit.com
-- Stanford d.school Bootcamp Bootleg dschool.stanford.edu
+- Stanford d.school Bootcamp Bootleg [(dschool.stanford.edu)]
 - Methods & Tools curated by Hyper Island http://toolbox.hyperisland.com
 - UX Project Checklist http://uxchecklist.github.io
 - The PM Toolkit http://thepmtoolkit.com/?ref=producthunt
