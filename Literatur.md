@@ -5,7 +5,7 @@
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel.
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld.
 - Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): Die Geschichte des nachhaltigen Design. VAS: Bad Homburg. S. 236-247.
-- Handt, Jonathan; Wolber, Aaron (2015): Delibero : Designprozesse und Verantwortung. unveröffentlicht Download
+- Handt, Jonathan; Wolber, Aaron (2015): Delibero : Designprozesse und Verantwortung. unveröffentlicht [Download (http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf)]
 
 
 # Designpraxis
