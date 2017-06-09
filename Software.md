@@ -20,3 +20,8 @@
 # Administration
 - **Lexoffice:** Buchhaltung und Ust.-Voranmeldung. www.lexoffice.de
 - **Fastbill:** Angebote und Rechnungen mit eigenem Layout (Schrift, Farbe können weitestgehend angepasst werden). www.fastbill.com
+- **Apple Pages:** Für Korrespondenz & ausführliche Angebote. www.apple.com/pages
+- **iA Writer:** Für Notizen & Ideensammlungen. www.ia.net/writer
+
+# Schreiben
+- **iA Writer:** Für konzentriertes Schreiben. www.ia.net/writer
