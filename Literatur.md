@@ -97,4 +97,4 @@
 
 ![stars][stars_one]
 ![stars][stars_two]
-![stars][stars_three]
+[stars][stars_three]
