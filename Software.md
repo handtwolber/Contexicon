@@ -17,6 +17,11 @@
 - **Adobe Lightroom:** Für größere Mengen von Fotografien. www.adobe.com/lightroom
 - **Adobe InDesign:** Für alle Printmedien. www.adobe.com/indesign
 
+# Entwicklung
+- **Atom:** Als Code-Editor. www.atom.io
+- **MAMP Pro:** Für virtuelle Server. www.mamp.info
+- **Gulp:** Für Workflow-Automation. www.gulpjs.com
+
 # Administration
 - **Asana:** Für das tägliche Projekt-Management. www.asana.com
 - **Slack:** Für die tägliche Kommunikation. www.slack.com
