@@ -6,7 +6,7 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 
 
 ## Inhaltsverzeichnis
-| | |
-| | |
-|:--|:--|
+
+| ABC | Artikel |
+|:-|:---|
 | L | [Literatur](Literatur.md) |
