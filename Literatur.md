@@ -34,7 +34,7 @@
 - Pricken, Mario: **Kribbeln im Kopf**
 - Duarte, Nancy: **Slide•ology**
 - Otto, Alexander Maximilian: **Storytelling in der Unternehmenskommunikation**
-- Reins: **Text sells**
+- Reins, Armin; Classen, Veronika; Czopf, Géza (2015): **Text sells: Wie Sie Texte schreiben, die wirken. Wie Sie Unternehmen und Marken durch Sprache Profil geben.** Verlag Hermann Schmidt, Mainz.
 - Holston, David: **The strategic Designer**
 - Haussmann, Martin: **UZMO - Denken mit dem Stift**
 - Eyal, Nir (2014): **Hooked: How to Build Habit-Forming Products.** Penguin, London.
