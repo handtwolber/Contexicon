@@ -70,7 +70,8 @@
 - Haussmann, Martin: **UZMO - Denken mit dem Stift**
 - Eyal, Nir (2014): **Hooked: How to Build Habit-Forming Products.** Penguin, London.
 - Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Verlag Hermann Schmidt, Mainz.
-- Knapp, Jake; Zeratsky, John; Kowitz, Braden (2016): **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days.** Simon & Schuster, New York. 
+- Knapp, Jake; Zeratsky, John; Kowitz, Braden (2016): **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days.** Simon & Schuster, New York.
+- Holston, David (2011): **The Strategic Designer.** HOW Books, Cincinnati.
 
 ## Typografie
 - Willberg, Hans Peter; Forssman, Friedrich (2009): **Erste Hilfe in Typografie: Ratgeber für Gestaltung mit Schrift.** Verlag Hermann Schmidt, Mainz.
@@ -87,8 +88,16 @@
 - Koop, Andreas (2012): **NSCI: Das visuelle Erscheinungsbild der Nationalsozialisten 1920-1945.** Verlag Hermann Schmidt, Mainz.
 
 # Fachfremde Literatur
-## Mythologie
 - Campbell, Joseph (2015): **Der Heros in tausend Gestalten.** Insel Verlag, Berlin.
+- Meadows, Dennis; Meadows, Donella; Zahn, Erich; Milling, Peter (1982): **Die Grenzen des Wachstums.** Rowohlt Verlag, Reinbek.
+- Jung, Carl Gustav (2015): **Archetypen.** DTV, München.
+
+# Leseliste
+- Kelley, Tom; Kelley, David (2015): **Creative Confidence: Unleashing the creative potential within us all.** William Collins, London.
+- Fried, Jason; Hansson, David Heinemeier (2010): **Rework: Change the way you work forever.** Vermilion, London.
+- Chou, Yu-Kai (2016): **Actionable Gamification: Beyond Points, Badges, and Leaderboards.** Octalysis, Fremont.
+- Burke, Brian (2014): **Gamify: How gamification motivates people to do extraordinary things.** Bibliomotion, New York.
+- Saffer, Dan (2014): **Microinteractions: Designing with details.** O'Reilly, Sebastopol.
 
 # Methodensammlungen
 - [MediaLAB Amsterdam Toolkit](http://medialab.hva.nl)
