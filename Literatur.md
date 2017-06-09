@@ -93,7 +93,9 @@
 # Legende
 
 ![stars_one][stars_onex] – Man ist danach nicht dümmer als davor.
+
 ![stars_two][stars_two] – Bei Interesse lesen.
+
 ![stars_three][stars_three] – Muss man auf jeden Fall gelesen haben.
 
 [stars_onex]: https://handtwolber.github.io/Contexicon/assets/icons/stars_onex.svg
