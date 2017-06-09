@@ -1,6 +1,8 @@
 # Designtheorie
 
-- Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg.
+- Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. 👍
+Daumen hoch
+Unicode: U+1F44D, UTF-8: F0 9F 91 8D
 - Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel.
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel.
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld.
