@@ -89,3 +89,12 @@
 - Communication Tools supporting design process http://www.servicedesigntools.org
 - Technology for creating web applications http://en.bem.info
 - Lean Startup Methodology http://theleanstartup.com
+
+
+[stars_one]: https://handtwolber.github.io/contexicon/assets/icons/stars_one.svg
+[stars_two]: https://handtwolber.github.io/contexicon/assets/icons/stars_two.svg
+[stars_three]: https://handtwolber.github.io/contexicon/assets/icons/stars_three.svg
+
+![stars][stars_one]
+![stars][stars_two]
+![stars][stars_three]
