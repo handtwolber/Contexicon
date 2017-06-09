@@ -11,21 +11,21 @@
 - Mareis, Claudia (2011): Design als Wissenskultur. Interfe- renzen zwischen Design- und Wissensdiskursen seit 1960. transcript Verlag: Bielefeld.
 - Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. 👍
 - Mareis, Claudia; Joost, Gesche; Kimpel, Kora (Hrsg.): **Entwerfen – Wissen - Produzieren. Designforschung im Anwendungskontext.** transcript: Bielefeld.
-- Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): Die Geschichte des nachhaltigen Design. VAS: Bad Homburg. S. 236-247. 👍
-- Maser, Siegfried (1976): Theorie ohne Praxis ist leer, Praxis ohne Theorie ist blind. Grundsätzliches über die notwendig- keit einer Designtheorie. In: Form. Heft 73, S. 40-42.
-- Maser, Siegfried (1990): Theorie heißt Praxis verstehen. Vor- trag beim Gra k-Design-ost-West-Kongreß. Braunschweig.
-- Maser, Siegfried (1994): Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse scha t? In: Burg Giebi- chenstein Kunsthochschule Halle: Design & Ethik. S. 89-100.
+- Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): **Die Geschichte des nachhaltigen Design.** VAS: Bad Homburg. S. 236-247. 👍
+- Maser, Siegfried (1976): **Theorie ohne Praxis ist leer, Praxis ohne Theorie ist blind. Grundsätzliches über die notwendig- keit einer Designtheorie.** In: Form. Heft 73, S. 40-42.
+- Maser, Siegfried (1990): **Theorie heißt Praxis verstehen. Vortrag beim Grafik-Design-Ost-West-Kongreß.** Braunschweig.
+- Maser, Siegfried (1994): **Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse schafft?** In: Burg Giebichenstein Kunsthochschule Halle: Design & Ethik. S. 89-100.
 - Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. 👍
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. 👍
 - Krippendorf, Klaus (2013): **Die Semantische Wende. Eine neue Grundlage für das Design.** Birkhäuser, Basel.
 - Papanek, Victor (2006): Design for the Real World. Human Ecology and Social Change. Thames & Hudson: London.
-- Pfeffer, Florian (2014): To Do: Die neue Rolle der Gestaltung in einer veränderten Welt. Hermann Schmidt: Mainz.
-- Polanyi, Michael (1966): The Tacit Dimension. Doubleday: New York.
-- Schneider, Beat (2009): Design – Eine Einführung. Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext. Birkhäuser: Basel.
-- Schön, Donald A. (1983): The Re ective Practitioner. How Professionals Think in Action. Basic Books.
-- Simon, Herbert A. (1996): The Sciences of the Arti cial. MIT Press: Massachusetts.
-- Walker, John A. (1992): Designgeschichte. Perspektiven einer wissenschaftlichen Disziplin. scaneg: München.
-- Welsch, Wolfgang (2010): Ästhetisches Denken. Reclam: Stuttgart.
+- Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Hermann Schmidt: Mainz.
+- Polanyi, Michael (1966): **The Tacit Dimension.** Doubleday: New York.
+- Schneider, Beat (2009): **Design – Eine Einführung. Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext.** Birkhäuser: Basel.
+- Schön, Donald A. (1983): **The Reflective Practitioner. How Professionals Think in Action.** Basic Books.
+- Simon, Herbert A. (1996): **The Sciences of the Artificial.** MIT Press: Massachusetts.
+- Walker, John A. (1992): **Designgeschichte. Perspektiven einer wissenschaftlichen Disziplin.** scaneg: München.
+- Welsch, Wolfgang (2010): **Ästhetisches Denken.** Reclam: Stuttgart.
 
 ## Journals
 
