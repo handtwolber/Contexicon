@@ -17,7 +17,7 @@
 
 ## UX/UI
 - Cooper, Alan: **About Face**
-- Kalbach, Jim (2016): Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams. O'Reilly.
+- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly.
 - Marsh: **UX for Beginners**
 - Nagel, Wolfram: **Multiscreen-Experience-Design**
 
