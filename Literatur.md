@@ -8,7 +8,7 @@
 - Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. 👍
 - Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. 👍
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. 👍
-- Krippendorf, Klaus (2013): Die Semantische Wende. Eine neue Grundlage für das Design. Birkhäuser, Basel.
+- Krippendorf, Klaus (2013): **Die Semantische Wende. Eine neue Grundlage für das Design.** Birkhäuser, Basel.
 - Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): Die Geschichte des nachhaltigen Design. VAS: Bad Homburg. S. 236-247. 👍
 - Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht.
 
