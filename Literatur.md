@@ -1,14 +1,14 @@
 # Designtheorie
 
-- Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin. ![stars_one][stars_onex]
+- Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin.
 - Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft.** Birkhäuser: Basel.
 - Dubberly, Hugh (2005): **How do you Design?** Stand: 15.06.2015 dubberly.com/articles/how-do-you-design.html
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. ![stars_three][stars_three]
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
 - Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht. ![stars_two][stars_two]
 - Krämer, Sybille; Bredekamp, Horst (2009): **Kultur, Technik, Kulturtechnik. Wider die Diskursivierung der Kultur.** In: Krämer, Sybille; Bredekamp, Horst (Hrsg.): Bild, Schrift, Zahl. Wilhelm Fink Verlag: München, S. 9-21.
-- Latour, Bruno (2005): Von objekten zu Dingen. In: Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.): Gestaltung denken. Grundlagentexte zu Design und Architektur. Birkhäuser: Basel, S. 257-260.
-- Mareis, Claudia (2011): Design als Wissenskultur. Interfe- renzen zwischen Design- und Wissensdiskursen seit 1960. transcript Verlag: Bielefeld.
+- Latour, Bruno (2005): **Von Objekten zu Dingen.** In: Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.): Gestaltung denken. Grundlagentexte zu Design und Architektur. Birkhäuser: Basel, S. 257-260.
+- Mareis, Claudia (2011): **Design als Wissenskultur. Interferenzen zwischen Design- und Wissensdiskursen seit 1960.** transcript Verlag: Bielefeld.
 - Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. ![stars_three][stars_three]
 - Mareis, Claudia; Joost, Gesche; Kimpel, Kora (Hrsg.): **Entwerfen – Wissen - Produzieren. Designforschung im Anwendungskontext.** transcript: Bielefeld.
 - Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): **Die Geschichte des nachhaltigen Design.** VAS: Bad Homburg. S. 236-247. ![stars_three][stars_three]
@@ -18,7 +18,7 @@
 - Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. ![stars_three][stars_three]
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. ![stars_three][stars_three]
 - Krippendorf, Klaus (2013): **Die Semantische Wende. Eine neue Grundlage für das Design.** Birkhäuser, Basel.
-- Papanek, Victor (2006): Design for the Real World. Human Ecology and Social Change. Thames & Hudson: London.
+- Papanek, Victor (2006): **Design for the Real World. Human Ecology and Social Change.** Thames & Hudson: London.
 - Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Hermann Schmidt: Mainz.
 - Polanyi, Michael (1966): **The Tacit Dimension.** Doubleday: New York.
 - Schneider, Beat (2009): **Design – Eine Einführung. Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext.** Birkhäuser: Basel.
@@ -32,8 +32,6 @@
 - [International Journey of Design](http://www.ijdesign.org)
 - [Design Issues](http://www.mitpressjournals.org/loi/desi)
 - [Novum](http://novum.graphics/de/magazin/ueber-novum/)
-
-
 
 # Designpraxis
 ## Branding
