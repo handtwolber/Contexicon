@@ -10,3 +10,4 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 | ABC | Artikel |
 |:-|:---|
 | L | [Literatur](Literatur.md) |
+| V | [Value Based Pricing](Valuebased-pricing.md) |
