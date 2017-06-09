@@ -27,6 +27,12 @@
 - Walker, John A. (1992): Designgeschichte. Perspektiven einer wissenschaftlichen Disziplin. scaneg: München.
 - Welsch, Wolfgang (2010): Ästhetisches Denken. Reclam: Stuttgart.
 
+## Journals
+
+- International Journey of Design (http://www.ijdesign.org)
+- Design Issues (http://www.mitpressjournals.org/loi/desi)
+- Novum (http://novum.graphics/de/magazin/ueber-novum/)
+
 
 
 # Designpraxis
