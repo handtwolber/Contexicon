@@ -1,15 +1,17 @@
-# Design
-- Adobe Illustrator
-- Adobe Photoshop
-- Adobe InDesign
-
 # UI Design
-- Sketch (Bohemian)
-- Adobe Illustrator
-- Adobe Photoshop
-- Principle
+- **Bohemian Sketch:** Für modulare UI-Designsysteme.
+- **Adobe Illustrator:** Für schnelle UI-Entwürfe.
+- **Adobe Photoshop:** Für alle pixelbasierten Assets.
+- **Principle:** Für interaktive Prototypen.
+- **Tree:** Für Informationsarchitektur & Sitemaps.
 
 # Motion Design
-- Adobe Illustrator
-- Adobe After Effects
-- Adobe Premiere
+- **Adobe Illustrator:** Für Konzeption & Entwurf von Vektor-Illustrationen.
+- **Adobe After Effects:** Für alles, was bewegt werden will.
+- **Adobe Premiere:** Für den klassischen Videoschnitt.
+
+# Klassisches Design
+- **Adobe Illustrator:** Für Illustrationen, Datenvisualisierungen.
+- **Adobe Photoshop:** Für alle pixelbasierten Medien.
+- **Adobe Lightroom:** Für größere Mengen von Fotografien.
+- **Adobe InDesign:** Für alle Printmedien.
