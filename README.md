@@ -6,6 +6,8 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 
 
 ## Inhaltsverzeichnis
-|  |  |
+
+{{TOC}}
+
 |:--|:--|
-| L | [Literatur](Literatur.md) |
+| L | - [Literatur](Literatur.md) |
