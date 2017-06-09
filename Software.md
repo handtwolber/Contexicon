@@ -16,3 +16,7 @@
 - **Adobe Photoshop:** Für alle pixelbasierten Medien.
 - **Adobe Lightroom:** Für größere Mengen von Fotografien.
 - **Adobe InDesign:** Für alle Printmedien.
+
+# Administration
+- **Lexoffice:** Buchhaltung und Ust.-Voranmeldung
+- **Fastbill:** Angebote und Rechnungen mit eigenem Layout (Schrift, Farbe können weitestgehend angepasst werden)
