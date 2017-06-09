@@ -34,20 +34,20 @@
 
 
 # Methodensammlungen
-- Designmethodenfinder https://designmethodenfinder.de
-- MediaLAB Amsterdam Toolkit https://medialab.hva.nl
-- IDEO Method Cards (App) https://ideo.com
-- Service Design Toolkit https://servicedesigntoolkit.org
-- Human-centered Design Kit https://designkit.org
-- Design Thinking for educators https://designthinkingforeducators.com
-- Project of How https://projectofhow.com
-- Method Kit https://methodkit.com
-- Stanford d.school Bootcamp Bootleg [(https://dschool.stanford.edu)]
+- Designmethodenfinder http://designmethodenfinder.de
+- MediaLAB Amsterdam Toolkit http://medialab.hva.nl
+- IDEO Method Cards (App) http://ideo.com
+- Service Design Toolkit http://servicedesigntoolkit.org
+- Human-centered Design Kit http://designkit.org
+- Design Thinking for educators http://designthinkingforeducators.com
+- Project of How http://projectofhow.com
+- Method Kit http://methodkit.com
+- Stanford d.school Bootcamp Bootleg [(http://dschool.stanford.edu)]
 - Methods & Tools curated by Hyper Island http://toolbox.hyperisland.com
 - UX Project Checklist http://uxchecklist.github.io
 - The PM Toolkit http://thepmtoolkit.com/?ref=producthunt
 - Methodenübersicht nach Phasen sortiert http://designresearchtechniques.com
 - Service Design Toolkit – Do it yourself http://www.servicedesigntoolkit.org/index.html
 - Communication Tools supporting design process http://www.servicedesigntools.org
-- Technology for creating web applications https://en.bem.info
-- Lean Startup Methodology https://theleanstartup.com
+- Technology for creating web applications http://en.bem.info
+- Lean Startup Methodology http://theleanstartup.com
