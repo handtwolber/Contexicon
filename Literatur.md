@@ -13,12 +13,12 @@
 - Baetzgen: **Brand Planning**
 - Spies, Marco: **Branded Interactions**
 - Hensel, Daniela: **Understanding Branding**
-- Scheier, Christian: **Was Marken erfolgreich macht**
+- Scheier, Christian; Held, Dirk (2012): **Was Marken erfolgreich macht: Neuropsychologie in der Markenführung.** Haufe, Freiburg.
 
 ## UX/UI
 - Cooper, Alan: **About Face**
 - Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly. 👍
-- Marsh: **UX for Beginners**
+- Marsh, Joel (2016): **UX for Beginners: A Crash Course in 100 Short Lessons.** O'Reilly, Sebastopol.
 - Nagel, Wolfram: **Multiscreen-Experience-Design**
 - Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. 👍
 
@@ -38,6 +38,7 @@
 - Holston, David: **The strategic Designer**
 - Haussmann, Martin: **UZMO - Denken mit dem Stift**
 - Eyal, Nir (2014): **Hooked: How to Build Habit-Forming Products.** Penguin, London.
+- Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Verlag Hermann Schmidt, Mainz.
 
 
 # Methodensammlungen
