@@ -1,11 +1,11 @@
 # Designtheorie
 
-- Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin.
+- Barthes, Roland (2013): **Mythen des Alltags.** Suhrkamp: Berlin. ![stars_one][stars_one]
 - Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft.** Birkhäuser: Basel.
 - Dubberly, Hugh (2005): **How do you Design?** Stand: 15.06.2015 dubberly.com/articles/how-do-you-design.html
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. 👍
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
-- Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht.
+- Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht. ![stars_two][stars_two]
 - Krämer, Sybille; Bredekamp, Horst (2009): **Kultur, Technik, Kulturtechnik. Wider die Diskursivierung der Kultur.** In: Krämer, Sybille; Bredekamp, Horst (Hrsg.): Bild, Schrift, Zahl. Wilhelm Fink Verlag: München, S. 9-21.
 - Latour, Bruno (2005): Von objekten zu Dingen. In: Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.): Gestaltung denken. Grundlagentexte zu Design und Architektur. Birkhäuser: Basel, S. 257-260.
 - Mareis, Claudia (2011): Design als Wissenskultur. Interfe- renzen zwischen Design- und Wissensdiskursen seit 1960. transcript Verlag: Bielefeld.
@@ -14,7 +14,7 @@
 - Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): **Die Geschichte des nachhaltigen Design.** VAS: Bad Homburg. S. 236-247. 👍
 - Maser, Siegfried (1976): **Theorie ohne Praxis ist leer, Praxis ohne Theorie ist blind. Grundsätzliches über die notwendig- keit einer Designtheorie.** In: Form. Heft 73, S. 40-42.
 - Maser, Siegfried (1990): **Theorie heißt Praxis verstehen. Vortrag beim Grafik-Design-Ost-West-Kongreß.** Braunschweig.
-- Maser, Siegfried (1994): **Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse schafft?** In: Burg Giebichenstein Kunsthochschule Halle: Design & Ethik. S. 89-100.
+- Maser, Siegfried (1994): **Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse schafft?** In: Burg Giebichenstein Kunsthochschule Halle: Design & Ethik. S. 89-100. ![stars_three][stars_three]
 - Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. 👍
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. 👍
 - Krippendorf, Klaus (2013): **Die Semantische Wende. Eine neue Grundlage für das Design.** Birkhäuser, Basel.
@@ -90,4 +90,7 @@
 - Technology for creating web applications http://en.bem.info
 - Lean Startup Methodology http://theleanstartup.com
 
+[stars_one]: https://handtwolber.github.io/Contexicon/assets/icons/stars_one.svg
+[stars_two]: https://handtwolber.github.io/Contexicon/assets/icons/stars_two.svg
+[stars_three]: https://handtwolber.github.io/Contexicon/assets/icons/stars_three.svg
 
