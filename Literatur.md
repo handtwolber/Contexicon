@@ -86,26 +86,27 @@
 - Schneider, Beat (2009): **Design – Eine Einführung: Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext.** Birkhäuser, Basel.
 - Koop, Andreas (2012): **NSCI: Das visuelle Erscheinungsbild der Nationalsozialisten 1920-1945.** Verlag Hermann Schmidt, Mainz.
 
+# Fachfremde Literatur
 ## Mythologie
 - Campbell, Joseph (2015): **Der Heros in tausend Gestalten.** Insel Verlag, Berlin.
 
 # Methodensammlungen
-- MediaLAB Amsterdam Toolkit http://medialab.hva.nl
-- IDEO Method Cards (App) http://ideo.com
-- Service Design Toolkit http://servicedesigntoolkit.org
-- Human-centered Design Kit http://designkit.org
-- Design Thinking for educators http://designthinkingforeducators.com
-- Project of How http://projectofhow.com
-- Method Kit http://methodkit.com
-- Stanford d.school Bootcamp Bootleg [(http://dschool.stanford.edu)]
-- Methods & Tools curated by Hyper Island http://toolbox.hyperisland.com
-- UX Project Checklist http://uxchecklist.github.io
-- The PM Toolkit http://thepmtoolkit.com/?ref=producthunt
-- Methodenübersicht nach Phasen sortiert http://designresearchtechniques.com
-- Service Design Toolkit – Do it yourself http://www.servicedesigntoolkit.org/index.html
-- Communication Tools supporting design process http://www.servicedesigntools.org
-- Technology for creating web applications http://en.bem.info
-- Lean Startup Methodology http://theleanstartup.com
+- [MediaLAB Amsterdam Toolkit](http://medialab.hva.nl)
+- [IDEO Method Cards (App)](http://ideo.com)
+- [Service Design Toolkit](http://servicedesigntoolkit.org)
+- [Human-centered Design Kit](http://designkit.org)
+- [Design Thinking for educators](http://designthinkingforeducators.com)
+- [Project of How](http://projectofhow.com)
+- [Method Kit](http://methodkit.com)
+- [Stanford d.school Bootcamp Bootleg](http://dschool.stanford.edu)
+- [Methods & Tools curated by Hyper Island](http://toolbox.hyperisland.com)
+- [UX Project Checklist](http://uxchecklist.github.io)
+- [The PM Toolkit](http://thepmtoolkit.com/?ref=producthunt)
+- [Methodenübersicht nach Phasen sortiert](http://designresearchtechniques.com)
+- [Service Design Toolkit – Do it yourself](http://www.servicedesigntoolkit.org/index.html)
+- [Communication Tools supporting design process](http://www.servicedesigntools.org)
+- [Technology for creating web applications](http://en.bem.info)
+- [Lean Startup Methodology](http://theleanstartup.com)
 
 # Legende
 
