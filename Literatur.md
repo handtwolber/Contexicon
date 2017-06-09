@@ -37,6 +37,7 @@
 - Reins: **Text sells**
 - Holston, David: **The strategic Designer**
 - Haussmann, Martin: **UZMO - Denken mit dem Stift**
+- Eyal, Nir (2014): **Hooked: How to Build Habit-Forming Products.** Penguin, London.
 
 
 # Methodensammlungen
