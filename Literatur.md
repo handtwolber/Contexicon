@@ -59,7 +59,7 @@
 - Gray, Dave: **Gamestorming**
 - Best, Kathryn: **Grundlagen des Designmanagements**
 - Duckett, Jon: **HTML & CSS**
-- Pricken, Mario: **Kribbeln im Kopf**
+- Pricken, Mario (2007): **Kribbeln im Kopf: Kreativtechniken & Denkstrategien für Werbung, Marketing & Medien.** Verlag Hermann Schmidt, Mainz.
 - Duarte, Nancy: **Slide•ology**
 - Otto, Alexander Maximilian: **Storytelling in der Unternehmenskommunikation**
 - Reins, Armin; Classen, Veronika; Czopf, Géza (2015): **Text sells: Wie Sie Texte schreiben, die wirken. Wie Sie Unternehmen und Marken durch Sprache Profil geben.** Verlag Hermann Schmidt, Mainz.
@@ -69,6 +69,18 @@
 - Pfeffer, Florian (2014): **To Do: Die neue Rolle der Gestaltung in einer veränderten Welt.** Verlag Hermann Schmidt, Mainz.
 - Knapp, Jake; Zeratsky, John; Kowitz, Braden (2016): **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days.** Simon & Schuster, New York. 
 
+## Typografie
+- Willberg, Hans Peter; Forssman, Friedrich (2009): **Erste Hilfe in Typografie: Ratgeber für Gestaltung mit Schrift.** Verlag Hermann Schmidt, Mainz.
+- Willberg, Hans Peter; Forssman, Friedrich (2010): **Lesetypo.** Verlag Hermann Schmidt, Mainz.
+- Willberg, Hans Peter (2001): **Wegweiser Schrift: Erste Hilfe für den Umgang mit Schriften.** Verlag Hermann Schmidt, Mainz.
+- Forssman, Friedrich; de Jong, Ralf (2008): **Detailtypografie.** Verlag Hermann Schmidt, Mainz.
+- Sauthoff, Daniel; Wendt, Gilmar; Willberg, Hans Peter (2010): **Schriften erkennen: Eine Typologie der Satzschriften.** Verlag Hermann Schmidt, Mainz.
+- Eisele, Petra; Naegele, Isabel (Hrsg.) (2012): **Texte zur Typografie – Positionen zur Schrift.** Verlag Niggli, Zürich.
+- Cheng, Karen (2006): **Anatomie der Buchstaben: Basiswissen für Schriftgestalter.** Verlag Hermann Schmidt, Mainz.
+
+## Designgeschichte
+- Pfeifer, Hans-Georg (Hrsg.) (1990): **Peter Behrens. Wer aber will sagen, was Schönheit sei?** Beton Verlag, Düsseldorf.
+- Schneider, Beat (2009): **Design – Eine Einführung: Entwurf im sozialen, kulturellen und wirtschaftlichen Kontext.** Birkhäuser, Basel.
 
 # Methodensammlungen
 - MediaLAB Amsterdam Toolkit http://medialab.hva.nl
