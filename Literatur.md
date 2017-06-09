@@ -90,7 +90,7 @@
 - Technology for creating web applications http://en.bem.info
 - Lean Startup Methodology http://theleanstartup.com
 
-[stars_onex]: https://handtwolber.github.io/Contexicon/assets/icons/stars_one.svg
+[stars_onex]: https://handtwolber.github.io/Contexicon/assets/icons/stars_onex.svg
 [stars_two]: https://handtwolber.github.io/Contexicon/assets/icons/stars_two.svg
 [stars_three]: https://handtwolber.github.io/Contexicon/assets/icons/stars_three.svg
 
