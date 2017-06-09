@@ -10,6 +10,10 @@
 
 # Designpraxis
 
+## Branding
+
+## UX/UI
+
 - Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): Management Y: Agile, Scrum, Design Thinking & Co. Campus, Frankfurt/New York.
 - Duarte, Nancy (2012): Resonate . Wiley-VCH: Weinheim.
 - Cooper, Alan: About Face
