@@ -1,12 +1,10 @@
 # Designtheorie
 
 - Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. 👍
-Daumen hoch
-Unicode: U+1F44D, UTF-8: F0 9F 91 8D
-- Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel.
-- Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel.
-- Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld.
-- Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): Die Geschichte des nachhaltigen Design. VAS: Bad Homburg. S. 236-247.
+- Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. 👍
+- Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. 👍
+- Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. 👍
+- Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): Die Geschichte des nachhaltigen Design. VAS: Bad Homburg. S. 236-247. 👍
 - Handt, Jonathan; Wolber, Aaron (2015): **Delibero: Designprozesse und Verantwortung.** unveröffentlicht [Download (http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf)]
 
 
@@ -19,17 +17,17 @@ Unicode: U+1F44D, UTF-8: F0 9F 91 8D
 
 ## UX/UI
 - Cooper, Alan: **About Face**
-- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly.
+- Kalbach, Jim (2016): **Mapping Experiences. A Guide to Creating Value through Journeys, Blueprints, and Diagrams.** O'Reilly. 👍
 - Marsh: **UX for Beginners**
 - Nagel, Wolfram: **Multiscreen-Experience-Design**
-- Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen.
+- Norman, Don (2016): **The Design of Everyday Things: Psychologie und Design der alltäglichen Dinge.** Vahlen. 👍
 
 ## Misc
 - Brandes, Ulf; Gemmer, Pascal; Koschek, Holger; Schültken, Lydia (2009): **Management Y: Agile, Scrum, Design Thinking & Co.** Campus, Frankfurt/New York.
-- Duarte, Nancy (2012): **Resonate.** Wiley-VCH: Weinheim.
+- Duarte, Nancy (2012): **Resonate.** Wiley-VCH: Weinheim. 👍
 - Osterwalder, Alexander: **Business Model Generation**
 - Kobuss, Joachim: **Erfolgreich als Designer**
-- Wolfsberger, Judith: **Frei geschrieben**
+- Wolfsberger, Judith: **Frei geschrieben** 👍
 - Gray, Dave: **Gamestorming**
 - Best, Kathryn: **Grundlagen des Designmanagements**
 - Duckett, Jon: **HTML & CSS**
