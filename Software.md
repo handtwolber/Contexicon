@@ -24,6 +24,7 @@
 - **Atom:** Als Code-Editor. www.atom.io
 - **MAMP Pro:** Für virtuelle Server. www.mamp.info
 - **Gulp:** Für Workflow-Automation. www.gulpjs.com
+- **ImageOptim:** Bildoptimierung/-datenreduktion. www.imageoptim.com
 
 # Administration
 - **Lexoffice:** Buchhaltung und Ust.-Voranmeldung. www.lexoffice.de
@@ -41,3 +42,7 @@
 - **Skype:** Für tägliche Meetings. www.skype.com
 - **Appear.in:** Für Videokonferenzen mit Kunden. www.appear.in
 - **Zoom:** Für Videokonferenzen mit Kunden. www.zoom.us
+
+# Präsentation & Dokumentation
+- **Apple Keynote:** Für Präsentationen & Projekt-Dokumentationen. www.apple.com/keynote
+- **Adobe InDesign:** Für individuelle Projekt-Dokumentationen & Manuals. www.adobe.com/indesign
