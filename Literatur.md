@@ -6,6 +6,7 @@
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. 👍
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
 - Krämer, Sybille; Bredekamp, Horst (Hrsg.)(2003): **Bild, Schrift, Zahl.** Wilhelm Fink Verlag: München, S. 9-21.
+- Mareis, Claudia (2011): Design als Wissenskultur. Interfe- renzen zwischen Design- und Wissensdiskursen seit 1960. transcript Verlag: Bielefeld.
 - Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. 👍
 - Mareis, Claudia; Joost, Gesche; Kimpel, Kora (Hrsg.): **Entwerfen – Wissen - Produzieren. Designforschung im Anwendungskontext.** transcript: Bielefeld.
 - Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): Die Geschichte des nachhaltigen Design. VAS: Bad Homburg. S. 236-247. 👍
