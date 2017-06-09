@@ -29,7 +29,7 @@
 
 ## Journals
 
-- International Journey of Design (http://www.ijdesign.org)
+- [International Journey of Design](http://www.ijdesign.org)
 - Design Issues (http://www.mitpressjournals.org/loi/desi)
 - Novum (http://novum.graphics/de/magazin/ueber-novum/)
 
