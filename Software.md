@@ -8,41 +8,41 @@
 - [**Craft:**](http://www.invisionapp.com/craft) Für mehr Power in Sketch.
 
 # Motion Design
-- **Adobe Illustrator:** Für Konzeption & Entwurf von Vektor-Illustrationen. www.adobe.com/illustrator
-- **Adobe After Effects:** Für alles, was bewegt werden will. www.adobe.com/aftereffects
-- **Adobe Premiere:** Für den klassischen Videoschnitt. www.adobe.com/premiere
-- **Adobe Media Encoder:** Für alles, was umgewandelt werden will. www.adobe.com/products/media-encoder.html
+- [**Adobe Illustrator:**](http://www.adobe.com/illustrator) Für Konzeption & Entwurf von Vektor-Illustrationen.
+- [**Adobe After Effects:**](http://www.adobe.com/aftereffects) Für alles, was bewegt werden will.
+- [**Adobe Premiere:**](http://www.adobe.com/premiere) Für den klassischen Videoschnitt.
+- [**Adobe Media Encoder:**](http://www.adobe.com/products/media-encoder.html) Für alles, was umgewandelt werden will.
 
 # Klassisches Design
-- **Adobe Illustrator:** Für Illustrationen, Datenvisualisierungen. www.adobe.com/illustrator
-- **Adobe Photoshop:** Für alle pixelbasierten Medien. www.adobe.com/photoshop
-- **Adobe Lightroom:** Für größere Mengen von Fotografien. www.adobe.com/lightroom
-- **Adobe InDesign:** Für alle Printmedien. www.adobe.com/indesign
-- **Glyphs:** Für Schriftgestaltung. www.glyphsapp.com
+- [**Adobe Illustrator:**](http://www.adobe.com/illustrator) Für Illustrationen, Datenvisualisierungen.
+- [**Adobe Photoshop:**](http://www.adobe.com/photoshop) Für alle pixelbasierten Medien.
+- [**Adobe Lightroom:**](http://www.adobe.com/lightroom) Für größere Mengen von Fotografien.
+- [**Adobe InDesign:**](http://www.adobe.com/indesign) Für alle Printmedien.
+- [**Glyphs:**](http://www.glyphsapp.com) Für Schriftgestaltung.
 
 # Entwicklung
-- **Atom:** Als Code-Editor. www.atom.io
-- **MAMP Pro:** Für virtuelle Server. www.mamp.info
-- **Gulp:** Für Workflow-Automation. www.gulpjs.com
-- **ImageOptim:** Bildoptimierung/-datenreduktion. www.imageoptim.com
+- [**Atom:**](http://www.atom.io) Als Code-Editor.
+- [**MAMP Pro:**](http://www.mamp.info) Für virtuelle Server.
+- [**Gulp:**](http://www.gulpjs.com) Für Workflow-Automation.
+- [**ImageOptim:**](http://www.imageoptim.com) Bildoptimierung/-datenreduktion.
 
 # Administration
-- **Lexoffice:** Buchhaltung und Ust.-Voranmeldung. www.lexoffice.de
-- **Fastbill:** Angebote und Rechnungen mit eigenem Layout (Schrift, Farbe können weitestgehend angepasst werden). www.fastbill.com
-- **Apple Pages:** Für Korrespondenz & ausführliche Angebote. www.apple.com/pages
-- **iA Writer:** Für Notizen & Ideensammlungen. www.ia.net/writer
+- [**Lexoffice:**](http://www.lexoffice.de) Buchhaltung und Ust.-Voranmeldung.
+- [**Fastbill:**](http://www.fastbill.com) Angebote und Rechnungen mit eigenem Layout (Schrift, Farbe können weitestgehend angepasst werden).
+- [**Apple Pages:**](http://www.apple.com/pages) Für Korrespondenz & ausführliche Angebote.
+- [**iA Writer:**](http://www.ia.net/writer) Für Notizen & Ideensammlungen.
 
 # Schreiben
-- **iA Writer:** Für konzentriertes Schreiben. www.ia.net/writer
+- [**iA Writer:**](http://www.ia.net/writer) Für konzentriertes Schreiben.
 
 # Kommunikation
-- **Slack:** Für die tägliche Kommunikation. www.slack.com
-- **Asana:** Für das tägliche Projekt-Management. www.asana.com
-- **Trello:** (Abundzu) für Projekt-Management. www.trello.com
-- **Skype:** Für tägliche Meetings. www.skype.com
-- **Appear.in:** Für Videokonferenzen mit Kunden. www.appear.in
-- **Zoom:** Für Videokonferenzen mit Kunden. www.zoom.us
+- [**Slack:**](http://www.slack.com) Für die tägliche Kommunikation.
+- [**Asana:**](http://www.asana.com) Für das tägliche Projekt-Management.
+- [**Trello:**](http://www.trello.com) (Abundzu) für Projekt-Management.
+- [**Skype:**](http://www.skype.com) Für tägliche Meetings.
+- [**Appear.in:**](http://www.appear.in) Für Videokonferenzen mit Kunden.
+- [**Zoom:**](http://www.zoom.us) Für Videokonferenzen mit Kunden.
 
 # Präsentation & Dokumentation
-- **Apple Keynote:** Für Präsentationen & Projekt-Dokumentationen. www.apple.com/keynote
-- **Adobe InDesign:** Für individuelle Projekt-Dokumentationen & Manuals. www.adobe.com/indesign
+- [**Apple Keynote:**](http://www.apple.com/keynote) Für Präsentationen & Projekt-Dokumentationen.
+- [**Adobe InDesign:**](http://www.adobe.com/indesign) Für individuelle Projekt-Dokumentationen & Manuals.
