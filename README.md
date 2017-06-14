@@ -9,5 +9,6 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 
 | ABC | Artikel |
 |:-|:---|
+| K | [Kirby Essentials](Kirby-Essentials.md) |
 | L | [Literatur](Literatur.md) |
 | V | [Value Based Pricing](Valuebased-pricing.md) |
