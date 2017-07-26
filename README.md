@@ -12,4 +12,5 @@ Das Contexicon ist unser Versuch, unseren Gestaltungskontext in Form einen Lexik
 | K | [Kirby Essentials](Kirby-Essentials.md) |
 | L | [Literatur](Literatur.md) |
 | S | [Software](Software.md) |
+|  | [Sketch Essentials](Sketch-Essentials.md) |
 | V | [Value Based Pricing](Valuebased-pricing.md) |
