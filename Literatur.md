@@ -4,6 +4,7 @@
 - Bonsiepe, Gui (2009): **Entwurfskultur und Gesellschaft: Gestaltung zwischen Zentrum und Peripherie.** Birkhäuser: Basel.
 - Dubberly, Hugh (2005): **How do you Design?** Stand: 15.06.2015 dubberly.com/articles/how-do-you-design.html
 - Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.) (2010): **Gestaltung denken.** Birkhäuser, Basel. ![stars_three][stars_three]
+  - *Wicked Problems* 
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
 - Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht. ![stars_two][stars_two]
 - Joost, Gesche; Scheuermann, Arne (Hrsg.) (2008): **Design als Rhetorik: Grundlagen, Positionen, Fallstudien.** Birkhäuser, Basel.
