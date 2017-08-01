@@ -7,17 +7,20 @@
   - *Wicked Problems* 
 - Eisele, Petra; Bürdek, Bernhard E. (Hrsg.): Design, Anfang des 21. Jh. Diskurse und Perspektiven. avedition: Ludwigsburg.
 - Handt, Jonathan; Wolber, Aaron (2015): [**Delibero: Designprozesse und Verantwortung.**](http://designprozesse.de/assets/images/Delibero_Theorie_Web.pdf) Unveröffentlicht. ![stars_two][stars_two]
+  - *Wicked Problems*
 - Joost, Gesche; Scheuermann, Arne (Hrsg.) (2008): **Design als Rhetorik: Grundlagen, Positionen, Fallstudien.** Birkhäuser, Basel.
 - Krämer, Sybille; Bredekamp, Horst (2009): **Kultur, Technik, Kulturtechnik. Wider die Diskursivierung der Kultur.** In: Krämer, Sybille; Bredekamp, Horst (Hrsg.): Bild, Schrift, Zahl. Wilhelm Fink Verlag: München, S. 9-21.
 - Latour, Bruno (2005): **Von Objekten zu Dingen.** In: Edelmann, Klaus Thomas; Terstiege, Gerrit (Hrsg.): Gestaltung denken. Grundlagentexte zu Design und Architektur. Birkhäuser: Basel, S. 257-260.
 - Mareis, Claudia (2011): **Design als Wissenskultur. Interferenzen zwischen Design- und Wissensdiskursen seit 1960.** transcript Verlag: Bielefeld.
 - Mareis, Claudia (2014): **Theorien des Designs zur Einführung.** Junius, Hamburg. ![stars_three][stars_three]
+  - *Wicked Problems*
 - Mareis, Claudia; Joost, Gesche; Kimpel, Kora (Hrsg.): **Entwerfen – Wissen - Produzieren. Designforschung im Anwendungskontext.** transcript: Bielefeld.
 - Mareis, Claudia (2013): **Die kulturelle Dimension des Designs.** In: Fuhs, Karin-Simone; Brocchi, Davide; Maxein, Michael & Draser, Bernd (Hrsg.): **Die Geschichte des nachhaltigen Design.** VAS: Bad Homburg. S. 236-247. ![stars_three][stars_three]
 - Maser, Siegfried (1976): **Theorie ohne Praxis ist leer, Praxis ohne Theorie ist blind. Grundsätzliches über die notwendig- keit einer Designtheorie.** In: Form. Heft 73, S. 40-42.
 - Maser, Siegfried (1990): **Theorie heißt Praxis verstehen. Vortrag beim Grafik-Design-Ost-West-Kongreß.** Braunschweig.
 - Maser, Siegfried (1994): **Design – ein Teil von jener Kraft, die stets das Gute will und stets das Böse schafft?** In: Burg Giebichenstein Kunsthochschule Halle: Design & Ethik. S. 89-100.
 - Horst W. J. Rittel; Jonas, Wolfgang; Reuter, Wolf D. (Hrsg.) (2013): **Thinking design. Transdisziplinäre Konzepte für Planer und Entwerfer.** Birkhäuser, Basel. ![stars_three][stars_three]
+  - *Wicked Problems*
 - Gethmann, Daniel; Hauser, Susanne (Hrsg.) (2009): **Kulturtechnik Entwerfen: Praktiken, Konzepte und Medien in Architektur und Design.** Science transcript, Bielefeld. ![stars_three][stars_three]
 - Krippendorf, Klaus (2013): **Die Semantische Wende. Eine neue Grundlage für das Design.** Birkhäuser, Basel.
 - Papanek, Victor (2006): **Design for the Real World. Human Ecology and Social Change.** Thames & Hudson: London.
